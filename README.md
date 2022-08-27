@@ -1,3 +1,3 @@
 # azure-resume
-My own azure resume
-https://myresumeazure.z10.web.core.windows.net/
+FRT Project
+Resume API with Azure Functions https://myresumeazure.z10.web.core.windows.net/
